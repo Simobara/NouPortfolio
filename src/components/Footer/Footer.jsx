@@ -7,7 +7,9 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="st-copyright-wrap text-center">
-          <div className="st-copyright-text">© {currentYear}. Nouman Azeem</div>
+          <div className="st-copyright-text">
+            © {currentYear}. Simone Baravelli
+          </div>
         </div>
       </div>
     </footer>

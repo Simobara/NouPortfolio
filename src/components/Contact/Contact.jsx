@@ -1,9 +1,9 @@
+import { Icon } from "@iconify/react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
-import "./Contact.scss";
 import SectionHeading from "../SectionHeading/SectionHeading";
-import { Icon } from "@iconify/react";
 import SocialLinks from "../SocialLinks/SocialLinks";
+import "./Contact.scss";
 
 const Contact = ({ data, socialData }) => {
   const { title, text, subTitle } = data;
@@ -81,8 +81,8 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Email</h4>
-                  <Link to="mailto:noumanazeem1@gmail.com">
-                    noumanazeem1@gmail.com
+                  <Link to="mailto:simobara@hotmail.it">
+                    simobara@hotmail.it
                   </Link>
                 </div>
               </div>
@@ -92,7 +92,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>Lahore, Pakistan</span>
+                  <span>Cesena,Italia</span>
                 </div>
               </div>
               <div className="st-social-info">

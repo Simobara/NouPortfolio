@@ -2,28 +2,28 @@
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/banner.png",
-    "title": "Nouman <br /> Azeem",
+    "title": "Simone <br /> Baravelli",
     "subTitle": "Hello, I’m",
     "designation": "MERN Stack Developer"
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpeg",
     "cvPdf": "/images/Nouman-azeem.pdf",
-    "title": "Hi There! I'm Nouman Azeem",
+    "title": "Hi There! I'm Simone Baravelli",
     "subtitle": "MERN Stack Developer",
     "text": "I am an experienced MERN stack developer with a strong understanding of MongoDB, Express, React, and Node.js. I excel at developing full-stack web applications using JavaScript, HTML, CSS, and Git. With my attention to detail and passion for collaboration, I consistently deliver high-quality software solutions that meet business requirements and enhance the user experience.",
     "details": [
       {
         "title": "Email",
-        "info": "noumanazeem1@gmail.com"
+        "info": "simobara@hotmail.it"
       },
       {
         "title": "From",
-        "info": "Lahore, Pakistan"
+        "info": "Cesena, Italy"
       },
       {
-        "title": "Language",
-        "info": "English, Urdu, Punjabi"
+        "title": "Languages",
+        "info": "Italian, English, Spanish"
       }
     ]
   },
@@ -175,7 +175,7 @@
         "duration": "500",
         "delay": "200"
       },
-     
+
       {
         "imgLink": "/images/portfolio/wisecounsel.png",
         "imgLinkLg": "/images/portfolio/wisecounsel.png",
@@ -185,7 +185,7 @@
         "duration": "500",
         "delay": "500"
       },
-      
+
       {
         "imgLink": "/images/portfolio/flux_lg.png",
         "imgLinkLg": "/images/portfolio/flux_lg.png",
@@ -203,8 +203,7 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
-      }
-     ,
+      },
       {
         "imgLink": "/images/portfolio/qowner.jpg",
         "imgLinkLg": "/images/portfolio/qowner.jpg",
@@ -223,9 +222,6 @@
         "duration": "500",
         "delay": "500"
       }
-      
-
-      
     ]
   },
   "blogData": {
@@ -368,7 +364,7 @@
       {
         "title": "React Js Developer",
         "duration": "Dec 2022 - Present",
-        "subTitle": "Hashloops Technologies",
+        "subTitle": "Atom Tech",
         "text": "Experienced MERN stack developer adept at crafting responsive web applications, dedicated to continuous learning and delivering top-notch software solutions for Pendandweb and its clients through collaboration and innovation.",
 
         "active": true
@@ -379,7 +375,6 @@
         "subTitle": "Penandweb",
         "text": "Experienced React JS developer proficient in crafting innovative web applications, dedicated to cross-functional teamwork, delivering scalable and maintainable code, and staying current with cutting-edge technologies and best practices."
       }
-      
     ],
     "educationTitle": "Education",
     "education": [
@@ -408,13 +403,13 @@
     {
       "icon": "fa6-brands:linkedin",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/muhammad-nouman-azeem-23b849211/"
+      "link": "https://www.linkedin.com/in/siba2410"
     },
-  
+
     {
       "icon": "material-symbols:mail-outline",
       "title": "Email",
-      "link": "mailto:noumanazeem1@gmail.com"
+      "link": "mailto:simobara@hotmail.it"
     }
   ]
 }

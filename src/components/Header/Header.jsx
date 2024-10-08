@@ -1,8 +1,8 @@
-import { Link } from "react-router-dom";
-import "./Header.scss";
 import PropTypes from "prop-types";
-import { Link as ScrollLink } from "react-scroll";
 import { useState } from "react";
+import { Link } from "react-router-dom";
+import { Link as ScrollLink } from "react-scroll";
+import "./Header.scss";
 
 const Header = () => {
   const [mobileToggle, setMobileToggle] = useState(false);
@@ -18,8 +18,11 @@ const Header = () => {
           <div className="st-main-header-in">
             <div className="st-main-header-left">
               <Link className="st-site-branding" to="/" id="hero">
-                <img src="/images/logo.jpg
-                " alt="Nouman" />
+                <img
+                  src="/images/logo.jpg
+                "
+                  alt="SimoBaraFoto"
+                />
               </Link>
             </div>
             <div className="st-main-header-right">
