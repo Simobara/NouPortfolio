@@ -19,7 +19,7 @@ const Contact = ({ data, socialData }) => {
       >
         <div className="row d-flex">
           <div className="col-lg-6">
-            <h3 className="st-contact-title">Send us a message 🚀</h3>
+            <h3 className="st-contact-title"> Drop me a message !</h3>
             <div id="st-alert"></div>
             <form
               action="https://formspree.io/f/mzblgelb"
@@ -72,7 +72,8 @@ const Contact = ({ data, socialData }) => {
               Let's Chat. <br /> Tell me about your project.
             </h3>
             <div className="st-contact-text">
-              Let's create something together 🤘
+              <br></br>
+              {/* Let's create something together 🤘 */}
             </div>
             <div className="st-contact-info-wrap">
               <div className="st-single-contact-info">

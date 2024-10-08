@@ -8,7 +8,7 @@
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpeg",
-    "cvPdf": "/images/Nouman-azeem.pdf",
+    "cvPdf": "/images/SimoneBaravelli.pdf",
     "title": "Hi There! I'm Simone Baravelli",
     "subtitle": "MERN Stack Developer",
     "text": "I am an experienced MERN stack developer with a strong understanding of MongoDB, Express, React, and Node.js. I excel at developing full-stack web applications using JavaScript, HTML, CSS, and Git. With my attention to detail and passion for collaboration, I consistently deliver high-quality software solutions that meet business requirements and enhance the user experience.",
@@ -362,33 +362,45 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "React Js Developer",
-        "duration": "Dec 2022 - Present",
+        "title": "Front End Developer",
+        "duration": "May 2023 - Present",
         "subTitle": "Atom Tech",
         "text": "Experienced MERN stack developer adept at crafting responsive web applications, dedicated to continuous learning and delivering top-notch software solutions for Pendandweb and its clients through collaboration and innovation.",
 
         "active": true
       },
       {
-        "title": "React Js Developer",
-        "duration": "Nov 2021 - Nov 2022",
-        "subTitle": "Penandweb",
+        "title": " React Js Developer",
+        "duration": "May 2021 - Feb 2023",
+        "subTitle": "Jazani",
         "text": "Experienced React JS developer proficient in crafting innovative web applications, dedicated to cross-functional teamwork, delivering scalable and maintainable code, and staying current with cutting-edge technologies and best practices."
+      },
+      {
+        "title": " Java Developer",
+        "duration": "Jan 2017 - Sep 2020",
+        "subTitle": "Daff Tecnologies",
+        "text": "Experienced Backend Java Developer proficient in building robust backend systems with MySQL integration, dedicated to designing scalable architectures, writing optimized queries, and ensuring data integrity. Skilled in developing maintainable and efficient code, collaborating effectively with cross-functional teams, and staying updated with the latest backend technologies and best practices."
       }
     ],
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Bachelor of Software Engineering",
-        "duration": "2017 - 2021",
-        "subTitle": "National Textile University",
+        "title": "Java Developer Certificate",
+        "duration": "2021",
+        "subTitle": "Cibertec University - Lima ",
         "text": "",
         "active": true
       },
       {
-        "title": "Intermediate",
-        "duration": "2015 - 2017",
-        "subTitle": "Punjab Group of Colleges",
+        "title": "Web Developer Certificate",
+        "duration": "2020",
+        "subTitle": "RMIT University - Brisbane ",
+        "text": ""
+      },
+      {
+        "title": "Bachelor of Software Engineering",
+        "duration": "2008",
+        "subTitle": "UniBo Alma Mater - Cesena",
         "text": ""
       }
     ]
@@ -396,7 +408,7 @@
   "contactData": {
     "formTitle": "Just say Hello",
     "title": "Let's Chat.",
-    "subTitle": "Visite my social profile and get connected",
+    "subTitle": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
   },
   "socialData": [
