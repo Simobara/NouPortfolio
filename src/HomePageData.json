@@ -1,0 +1,420 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/banner.png",
+    "title": "Nouman <br /> Azeem",
+    "subTitle": "Hello, I’m",
+    "designation": "MERN Stack Developer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpeg",
+    "cvPdf": "/images/Nouman-azeem.pdf",
+    "title": "Hi There! I'm Nouman Azeem",
+    "subtitle": "MERN Stack Developer",
+    "text": "I am an experienced MERN stack developer with a strong understanding of MongoDB, Express, React, and Node.js. I excel at developing full-stack web applications using JavaScript, HTML, CSS, and Git. With my attention to detail and passion for collaboration, I consistently deliver high-quality software solutions that meet business requirements and enhance the user experience.",
+    "details": [
+      {
+        "title": "Email",
+        "info": "noumanazeem1@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Lahore, Pakistan"
+      },
+      {
+        "title": "Language",
+        "info": "English, Urdu, Punjabi"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "Web Development",
+        "text": "I specialize in creating dynamic and user-friendly web applications using modern technologies like React, Next.js, ensuring seamless user experiences and robust functionality.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "UI/UX Design",
+        "text": "I craft intuitive UI/UX for web and mobile apps, ensuring purposeful design elements that enhance user engagement from wireframes to prototypes.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "SaaS Application Development",
+        "text": "I specialize in crafting tailored SaaS solutions, whether for new projects or enhancements, focusing on scalable, secure, and efficient cloud-based software that fuels business growth.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "eCommerce Development",
+        "text": "I specialize in creating tailored, feature-rich eCommerce websites with secure payment gateways, ensuring a seamless shopping experience for your customers.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "Backend Development",
+        "text": "I design and develop scalable server-side solutions with Node.js and Express.js, integrating MongoDB, MySQL, or PostgreSQL for robust data security and peak performance.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Responsive Design",
+        "text": "I specialize in crafting intuitive UI/UX for web and mobile apps. From wireframes to prototypes, I ensure every element enhances user engagement with purposeful design.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "skills": [
+      {
+        "title": "React.Js",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Node - Express.Js",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Mongo DB | SQL | Firebase",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Next.Js",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Javascript",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Typescript",
+        "progress": "60%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "HTML | CSS | Bootstrap | Tailwind",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Git | Github",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "AWS | Hostinger | Vercel",
+        "progress": "70%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Payment Gateways",
+        "progress": "70%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/zoulu1.png",
+        "imgLinkLg": "/images/portfolio/zoulu1.png",
+        "title": "Zoulu",
+        "subTitle": "Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/aetmaad.png",
+        "imgLinkLg": "/images/portfolio/aetmaad.png",
+        "title": "Aetmaad Software",
+        "subTitle": "CRM Software",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+     
+      {
+        "imgLink": "/images/portfolio/wisecounsel.png",
+        "imgLinkLg": "/images/portfolio/wisecounsel.png",
+        "title": "Wise Counsel AI",
+        "subTitle": "SaaS Development",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      
+      {
+        "imgLink": "/images/portfolio/flux_lg.png",
+        "imgLinkLg": "/images/portfolio/flux_lg.png",
+        "title": "Flux",
+        "subTitle": "Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/VNS.png",
+        "imgLinkLg": "/images/portfolio/VNS.png",
+        "title": "VNS Inventory ",
+        "subTitle": "Inventory management systems",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      }
+     ,
+      {
+        "imgLink": "/images/portfolio/qowner.jpg",
+        "imgLinkLg": "/images/portfolio/qowner.jpg",
+        "title": "Qowner",
+        "subTitle": "Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/tukadaa.jpg",
+        "imgLinkLg": "/images/portfolio/tukadaa.jpg",
+        "title": "Tukada",
+        "subTitle": "Task management",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      }
+      
+
+      
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "React Js Developer",
+        "duration": "Dec 2022 - Present",
+        "subTitle": "Hashloops Technologies",
+        "text": "Experienced MERN stack developer adept at crafting responsive web applications, dedicated to continuous learning and delivering top-notch software solutions for Pendandweb and its clients through collaboration and innovation.",
+
+        "active": true
+      },
+      {
+        "title": "React Js Developer",
+        "duration": "Nov 2021 - Nov 2022",
+        "subTitle": "Penandweb",
+        "text": "Experienced React JS developer proficient in crafting innovative web applications, dedicated to cross-functional teamwork, delivering scalable and maintainable code, and staying current with cutting-edge technologies and best practices."
+      }
+      
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor of Software Engineering",
+        "duration": "2017 - 2021",
+        "subTitle": "National Textile University",
+        "text": "",
+        "active": true
+      },
+      {
+        "title": "Intermediate",
+        "duration": "2015 - 2017",
+        "subTitle": "Punjab Group of Colleges",
+        "text": ""
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Let's Chat.",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+  },
+  "socialData": [
+    {
+      "icon": "fa6-brands:linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/muhammad-nouman-azeem-23b849211/"
+    },
+  
+    {
+      "icon": "material-symbols:mail-outline",
+      "title": "Email",
+      "link": "mailto:noumanazeem1@gmail.com"
+    }
+  ]
+}
