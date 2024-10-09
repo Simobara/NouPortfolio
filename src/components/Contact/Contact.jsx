@@ -8,7 +8,7 @@ import "./Contact.scss";
 const Contact = ({ data, socialData }) => {
   const { title, text, subTitle } = data;
   return (
-    <section id="contacct" className="st-dark-bg">
+    <section id="contact" className="st-dark-bg">
       <div className="st-height-b100 st-height-lg-b80"></div>
       <SectionHeading title="Contact" />
       <div

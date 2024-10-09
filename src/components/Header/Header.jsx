@@ -82,7 +82,7 @@ const Header = () => {
                   {/* <li><ScrollLink to="blog" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Blog</ScrollLink></li> */}
                   <li>
                     <ScrollLink
-                      to="contacct"
+                      to="contact"
                       spy={true}
                       smooth={true}
                       offset={-80}
