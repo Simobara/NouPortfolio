@@ -34,7 +34,7 @@
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.12",
     "vite": "^4.5.5",
-    "vite-plugin-react-markdown": "^0.0.16",
+    "vite-plugin-react-markdown": "^0.2.10",
     "vite-plugin-sitemap": "^0.7.1"
   },
   "main": "vite.config.js",
