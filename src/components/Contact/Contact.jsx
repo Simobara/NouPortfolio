@@ -22,7 +22,7 @@ const Contact = ({ data, socialData }) => {
             <h3 className="st-contact-title"> Drop me a message !</h3>
             <div id="st-alert"></div>
             <form
-              action="https://formspree.io/f/mzblgelb"
+              action="https://formspree.io/f/mbljrbbk"
               method="POST"
               className="st-contact-form"
               id="contact-form"
