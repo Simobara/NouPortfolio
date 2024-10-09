@@ -1,4 +1,4 @@
-@import './variable.scss';
+@import "./variable.scss";
 .container {
   max-width: 1140px;
 }
@@ -71,7 +71,7 @@
   position: relative;
 
   &:before {
-    content: '';
+    content: "";
     position: absolute;
     left: 0;
     top: 0;

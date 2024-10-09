@@ -1,9 +1,9 @@
-import './Modal.scss';
+import "./Modal.scss";
 
 const Modal = ({ img, title, subTitle, modalClose }) => {
   const modalStyle = {
-    backgroundColor: 'rgba(0,0,0,0.8)',
-    display: 'block',
+    backgroundColor: "rgba(0,0,0,0.8)",
+    display: "block",
   };
   return (
     <div className="modal show fade bd-example-modal-lg" style={modalStyle}>
@@ -13,7 +13,7 @@ const Modal = ({ img, title, subTitle, modalClose }) => {
             <h4 className="modal-title">{title}</h4>
             <button
               type="button"
-              className="btn-close"
+              className="btn-close color"
               onClick={modalClose}
             ></button>
           </div>

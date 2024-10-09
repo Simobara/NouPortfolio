@@ -141,14 +141,14 @@
       },
       {
         "title": "AWS | Hostinger | Vercel",
-        "progress": "70%",
+        "progress": "60%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
       },
       {
         "title": "Payment Gateways",
-        "progress": "70%",
+        "progress": "60%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -419,9 +419,9 @@
     },
 
     {
-      "icon": "material-symbols:mail-outline",
-      "title": "Email",
-      "link": "mailto:simobara@hotmail.it"
+      "icon": "material-symbols:smartphone",
+      "title": "Whats App",
+      "link": "https://wa.me/+393342325244"
     }
   ]
 }

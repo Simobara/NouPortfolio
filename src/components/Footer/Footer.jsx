@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container">
         <div className="st-copyright-wrap text-center">
           <div className="st-copyright-text">
-            © {currentYear}. Simone Baravelli
+            {currentYear} ©All Rights Reserved . Simone Baravelli
           </div>
         </div>
       </div>
