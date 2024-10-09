@@ -45,7 +45,7 @@ const PortfolioSection = ({ data }) => {
 
   return (
     <>
-      <section id="portfolio">
+      <section id="portfoliio">
         <div className="st-height-b100 st-height-lg-b80"></div>
         <SectionHeading title={'Portfolio'} />
         <div className="container">
