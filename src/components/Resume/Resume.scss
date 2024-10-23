@@ -1,4 +1,4 @@
-@import '../../sass/default/variable';
+@import "../../sass/default/variable";
 
 .st-resume-heading {
   display: flex;
@@ -15,10 +15,10 @@
 .st-resume-timeline {
   position: relative;
   padding-top: 1px;
-  margin-bottom: 50px;
+
   display: inline-block;
-  &:last-child{
-    margin-bottom: 0;
+  &:last-child {
+    margin-bottom: 0px;
   }
 
   &::before {
@@ -71,7 +71,7 @@
   border-left: 1px solid $base-color4;
 }
 
-@media only screen and (max-width:991px) {
+@media only screen and (max-width: 991px) {
   .st-resume-timeline {
     margin-bottom: 30px;
   }
