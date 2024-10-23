@@ -69,7 +69,7 @@ const Header = () => {
                   </li>
                   <li>
                     <ScrollLink
-                      to="portfoliio"
+                      to="portfolio"
                       spy={true}
                       smooth={true}
                       offset={-80}
