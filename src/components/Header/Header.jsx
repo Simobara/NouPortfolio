@@ -11,6 +11,19 @@ const Header = () => {
     setMobileToggle(!mobileToggle);
   };
 
+  const handleLinkClick = (e) => {
+    // Rimuove la classe 'active' da tutti i link nella lista di navigazione
+    document.querySelectorAll(".st-nav-list a").forEach((el) => {
+      el.classList.remove("active");
+    });
+
+    // Aggiunge la classe 'active' solo al link cliccato
+    e.currentTarget.classList.add("active");
+
+    // Chiude il menu mobile se necessario
+    setMobileToggle(false);
+  };
+
   return (
     <header className={`st-site-header st-style1 st-sticky-header`}>
       <div className="st-main-header">
@@ -18,11 +31,7 @@ const Header = () => {
           <div className="st-main-header-in">
             <div className="st-main-header-left">
               <Link className="st-site-branding" to="/" id="hero">
-                <img
-                  src="/images/logo.jpg
-                "
-                  alt="SimoBaraFoto"
-                />
+                <img src="/images/logo.jpg" alt="SimoBaraFoto" />
               </Link>
             </div>
             <div className="st-main-header-right">
@@ -38,7 +47,7 @@ const Header = () => {
                       smooth={true}
                       offset={-80}
                       duration={500}
-                      onClick={() => setMobileToggle(false)}
+                      onClick={handleLinkClick}
                     >
                       Home
                     </ScrollLink>
@@ -50,7 +59,7 @@ const Header = () => {
                       smooth={true}
                       offset={-80}
                       duration={500}
-                      onClick={() => setMobileToggle(false)}
+                      onClick={handleLinkClick}
                     >
                       About
                     </ScrollLink>
@@ -62,7 +71,7 @@ const Header = () => {
                       smooth={true}
                       offset={-80}
                       duration={500}
-                      onClick={() => setMobileToggle(false)}
+                      onClick={handleLinkClick}
                     >
                       Resume
                     </ScrollLink>
@@ -74,12 +83,11 @@ const Header = () => {
                       smooth={true}
                       offset={-80}
                       duration={500}
-                      onClick={() => setMobileToggle(false)}
+                      onClick={handleLinkClick}
                     >
                       Portfolio
                     </ScrollLink>
                   </li>
-                  {/* <li><ScrollLink to="blog" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}>Blog</ScrollLink></li> */}
                   <li>
                     <ScrollLink
                       to="contact"
@@ -87,7 +95,7 @@ const Header = () => {
                       smooth={true}
                       offset={-80}
                       duration={500}
-                      onClick={() => setMobileToggle(false)}
+                      onClick={handleLinkClick}
                     >
                       Contact
                     </ScrollLink>

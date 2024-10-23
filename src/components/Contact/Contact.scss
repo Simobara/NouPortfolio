@@ -1,4 +1,4 @@
-@import '../../sass/default/variable';
+@import "../../sass/default/variable";
 
 #st-alert {
   font-size: 15px;
@@ -8,8 +8,8 @@
 .st-contact-title {
   font-size: 30px;
   font-weight: 400;
-  margin-top: -6px;
-  margin-bottom: 22px;
+  margin-top: 110px;
+  margin-bottom: 0px;
 }
 
 .st-form-field {
@@ -72,7 +72,7 @@
     height: 50px;
     margin-right: 20px;
     transition: all 0.4s ease;
-    svg{
+    svg {
       scale: 1.1;
     }
   }
