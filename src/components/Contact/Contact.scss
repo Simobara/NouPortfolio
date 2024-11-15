@@ -137,6 +137,10 @@
       margin-right: 20px;
     }
 
+    &:hover {
+      border-color: $base-color1; // Colore del bordo al passaggio del mouse
+    }
+
     .st-social-icon {
       display: flex;
       justify-content: center;
