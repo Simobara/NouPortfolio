@@ -2,6 +2,7 @@
 .st-portfolio {
   display: block;
   position: relative;
+  margin-bottom: 20px;
   &:hover {
     cursor: pointer;
   }
@@ -97,4 +98,10 @@
 
 .st-portfolio-btn {
   margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .st-portfolio {
+    margin-bottom: 15px;
+  }
 }

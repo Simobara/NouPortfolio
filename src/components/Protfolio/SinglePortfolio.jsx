@@ -1,16 +1,31 @@
-import PropTypes from 'prop-types';
-import { Icon } from '@iconify/react';
+import { Icon } from "@iconify/react";
+import PropTypes from "prop-types";
 
 const SinglePortfolio = ({ data, getData }) => {
   const { imgLink, imgLinkLg, title, subTitle, effect, duration, delay } = data;
 
   return (
-    <div className="col-lg-4 col-md-6" data-aos={effect} data-aos-duration={duration} data-aos-delay={delay}>
-      <div className="st-portfolio-single st-style1" onClick={() => getData(imgLinkLg, title, subTitle)}>
+    <div
+      className="col-lg-4 col-md-6"
+      data-aos={effect}
+      data-aos-duration={duration}
+      data-aos-delay={delay}
+    >
+      <div
+        className="st-portfolio-single st-style1"
+        onClick={() => getData(imgLinkLg, title, subTitle)}
+      >
         <div className="st-portfolio-item">
           <div className="st-portfolio st-zoom">
-            <div className="st-portfolio-img st-zoom-in" style={{height:"250px"}}>
-              <img src={imgLink} alt="portfolio" style={{minHeight:"250px"}}/>
+            <div
+              className="st-portfolio-img st-zoom-in"
+              style={{ height: "250px" }}
+            >
+              <img
+                src={imgLink}
+                alt="portfolio"
+                style={{ minHeight: "250px" }}
+              />
             </div>
             <div className="st-portfolio-item-hover">
               <Icon icon="mdi:plus-circle" />
@@ -20,12 +35,12 @@ const SinglePortfolio = ({ data, getData }) => {
           </div>
         </div>
       </div>
-    </div >
-  )
-}
+    </div>
+  );
+};
 
 SinglePortfolio.propTypes = {
-  data: PropTypes.object
-}
+  data: PropTypes.object,
+};
 
-export default SinglePortfolio
+export default SinglePortfolio;
