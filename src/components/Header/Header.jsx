@@ -21,7 +21,7 @@ const Header = () => {
                 <img
                   src="/images/logo.jpg
                 "
-                  alt="Nouman"
+                  alt="SimonBara"
                 />
               </Link>
             </div>
